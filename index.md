@@ -9,12 +9,10 @@ title: Home
 
 # Hello! 👋
 
-I am **Kipyo Kim**, an undergraduate student majoring in Artificial Intelligence.
+I am **Kipyo Kim**, an undergraduate student majoring in Artificial Intelligence at Sungkyunkwan univ, Seoul, South Korea.
 
 ## Research Interests
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🗣️ Natural Language Processing
+Representation Learning, Domain Adaptation, Multimodal AI
 
 ## About Me
 This website documents my research interests, projects, and academic journey.

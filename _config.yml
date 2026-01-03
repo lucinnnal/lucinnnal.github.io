@@ -1,12 +1,11 @@
 title: "Kipyo Kim"
-email: your-email@example.com
+email: kipyo39@gmail.com
 description: >-
-  AI Researcher & Undergraduate Student.
-  Interested in Machine Learning, Computer Vision, and NLP.
+  Undergraduate student majoring in AI.
 baseurl: ""
-url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://lucinnnal.github.io"
+github_username:  lucinnnal
+linkedin_username:  kipyokim
 
 # Build settings
 theme: minima
