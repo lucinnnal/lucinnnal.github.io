@@ -1,12 +1,3 @@
-title: "Kipyo Kim"
-email: kipyo39@gmail.com
-description: >-
-  Undergraduate student majoring in AI.
-baseurl: ""
-url: "https://lucinnnal.github.io"
-github_username:  lucinnnal
-linkedin_username:  kipyokim
-
 # Build settings
 theme: minima
 plugins:
