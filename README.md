@@ -6,7 +6,7 @@ This is the source code for my personal academic website, hosted on GitHub Pages
 
 1. Create a new repository on GitHub named `your-username.github.io`.
 2. Push the contents of this folder to that repository.
-3. Your site will be live at `https://your-username.github.io`.
+3. Your site will be live at `https://lucinnnal.github.io`.
 
 ## Local Development
 
