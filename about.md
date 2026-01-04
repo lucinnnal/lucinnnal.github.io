@@ -9,7 +9,12 @@ permalink: /about/
 - **Sungkyunkwan University, Seoul, South Korea**
   - B.S. in Applied Artificial Intelligence
   - Mar. 2021 ~ Present
-  - GPA: 4.1 / 4.50 (Overall), 4.37 / 4.50 (Major)
+  - GPA: 4.1 / 4.50 (Overall), 4.36 / 4.50 (Major)
+  - <a href="https://drive.google.com/file/d/1SLQWb72ewhgx3VSbAjufsPQaywmSwWmA/view?usp=sharing" target="_blank">Transcript</a>
+
+
+- **Paichai High School, Seoul, South Korea**
+  - Mar. 2018 ~ Mar. 2021
 
 ## Experiences
 

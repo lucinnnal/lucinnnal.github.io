@@ -28,10 +28,3 @@ I am **Kipyo Kim**, an undergraduate student majoring in Artificial Intelligence
 
 ## Research Interests
 Representation Learning, Domain Adaptation, Multimodal AI
-
-## About Me
-This website documents my research interests, projects, and academic journey.
-I am passionate about learning and applying new technologies, with a particular interest in [Specific Interest].
-
-## News
-- **Jan 2026**: My personal website is live!
