@@ -9,7 +9,7 @@ permalink: /projects/
 
 - **Description**: AI Image forensics project
 - **Tech Stack**: Python, PyTorch
-- **Contributors**: Dain Kim, Kyungjun Oh
+- **Contributors**: Sungjun Ha, Byeongho Ko
 - [https://github.com/lucinnnal/ai_forensics](#)
 
 ## Korean Sarcasm Detection: Feature Analysis and Deep Learning–Based Detection System Built on the KoCoSa Dataset
@@ -25,5 +25,5 @@ permalink: /projects/
 
 - **Description**: Project on Transformer-Aware Optimization and Targeted Distillation methods.
 - **Tech Stack**: Python, PyTorch
-- **Contributors**: Sungjun Ha, Byeongho Ko
+- **Contributors**: Dain Kim, Kyungjun Oh
 - [https://github.com/lucinnnal/lucinaaal-effiseg](#)
