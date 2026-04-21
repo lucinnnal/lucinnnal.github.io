@@ -38,9 +38,6 @@ $grey-color-dark:  #A0A8B8;
 
 *, *::before, *::after { box-sizing: border-box; }
 
-/* ── Hide auto-generated "Home" heading from home layout ── */
-.home .page-heading { display: none !important; }
-
 /* ── Keyframes ── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(20px); }
@@ -161,16 +158,16 @@ h1, h2, h3, h4 {
   font-family: var(--sans);
   font-weight: 600;
   color: var(--deep);
-  letter-spacing: -0.01em;
-  line-height: 1.2;
+  letter-spacing: 0em;
+  line-height: 1.3;
 }
 
 h1 { font-size: 2.2rem; margin-bottom: 0.5rem; }
 
 h2 {
-  font-size: 0.75rem;
+  font-size: 0.73rem;
   font-weight: 500;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--teal);
   margin-top: 3rem;
@@ -187,9 +184,9 @@ h3 {
 
 p, li {
   font-family: var(--body);
-  font-size: 1rem;
+  font-size: 1.02rem;
   color: #9AA4B8;
-  line-height: 1.82;
+  line-height: 1.9;
 }
 
 a {
