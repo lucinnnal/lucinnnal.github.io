@@ -22,8 +22,10 @@ title: Home
       B.S. in Applied Artificial Intelligence
     </p>
     <p class="hero-bio">
-      I am an undergraduate student passionate about building intelligent systems
-      that understand, adapt, and transfer knowledge across domains and modalities.
+      I am an undergraduate student passionate about how machines perceive, reason,
+      and generalize across visual and temporal modalities — with a focus on
+      <em>multimodal reasoning</em>, <em>video understanding</em>,
+      and learning representations that transfer beyond their training distribution.
       Currently a research intern at the Universal Transfer Learning Lab, Korea University.
     </p>
     <div class="hero-interests">

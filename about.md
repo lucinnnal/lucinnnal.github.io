@@ -72,4 +72,4 @@ permalink: /about/
 
 - **Languages**: Python, C
 - **Frameworks**: PyTorch, Scikit-learn
-- **Tools**: Git, Linux
+- **Tools**: Git, Linux, Docker
