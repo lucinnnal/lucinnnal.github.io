@@ -38,6 +38,9 @@ $grey-color-dark:  #A0A8B8;
 
 *, *::before, *::after { box-sizing: border-box; }
 
+/* ── Hide auto-generated "Home" heading from home layout ── */
+.home .page-heading { display: none !important; }
+
 /* ── Keyframes ── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(20px); }
