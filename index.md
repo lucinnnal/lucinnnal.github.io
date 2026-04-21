@@ -26,7 +26,6 @@ title: Home
       and generalize across visual and temporal modalities — with a focus on
       <em>multimodal reasoning</em>, <em>video understanding</em>,
       and learning representations that transfer beyond their training distribution.
-      Currently a research intern at the Universal Transfer Learning Lab, Korea University.
     </p>
     <div class="hero-interests">
       <span class="interest-label">Research Interests</span>
