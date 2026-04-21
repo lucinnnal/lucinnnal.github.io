@@ -29,9 +29,9 @@ title: Home
     <div class="hero-interests">
       <span class="interest-label">Research Interests</span>
       <div class="interest-tags">
+        <span>Multimodal Reasoning</span>
+        <span>Video Understanding</span>
         <span>Representation Learning</span>
-        <span>Domain Adaptation</span>
-        <span>Multimodal AI</span>
       </div>
     </div>
   </div>
