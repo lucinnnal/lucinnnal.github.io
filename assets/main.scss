@@ -5,11 +5,11 @@
 $base-font-family: 'Lora', Georgia, serif;
 $base-font-size:   17px;
 $base-line-height: 1.78;
-$base-background-color: #100C0A;
+$base-background-color: #1E1812;
 $text-color:       #EDE0CC;
 $brand-color:      #E8845A;
 $grey-color:       #6A5A4A;
-$grey-color-light: #1E1714;
+$grey-color-light: #261E16;
 $grey-color-dark:  #A09080;
 
 @import "minima";
@@ -20,17 +20,17 @@ $grey-color-dark:  #A09080;
    ═══════════════════════════════════════════════════════════ */
 
 :root {
-  --bg:         #100C0A;
-  --bg2:        #161110;
-  --bg3:        #1E1714;
+  --bg:         #1E1812;
+  --bg2:        #261E16;
+  --bg3:        #2E2418;
   --deep:       #EDE0CC;
   --dim:        #8A7A6A;
   --ember:      #E8845A;
   --ember-dim:  rgba(232, 132, 90, 0.1);
   --ember-glow: rgba(232, 132, 90, 0.18);
   --sage:       #7A9E8A;
-  --border:     #2E2420;
-  --border2:    #3A2E28;
+  --border:     #3A2E22;
+  --border2:    #48382A;
   --sans:       'Syne', system-ui, sans-serif;
   --body:       'Lora', Georgia, serif;
   --mono:       'JetBrains Mono', monospace;
@@ -81,7 +81,7 @@ body::before {
 
 /* ── Header ── */
 .site-header {
-  background: rgba(16, 12, 10, 0.88) !important;
+  background: rgba(30, 24, 18, 0.88) !important;
   backdrop-filter: blur(20px) saturate(1.6);
   -webkit-backdrop-filter: blur(20px) saturate(1.6);
   border-bottom: 1px solid var(--border) !important;
@@ -320,7 +320,7 @@ strong { color: var(--deep); font-weight: 500; }
 .hero-social {
   display: flex;
   gap: 0;
-  border: 1px solid #3A2E28;
+  border: 1px solid #48382A;
   border-radius: 5px;
   overflow: hidden;
 
@@ -333,10 +333,10 @@ strong { color: var(--deep); font-weight: 500; }
     font-size: 1rem;
     color: #9A8A78;
     text-decoration: none !important;
-    background: #1E1714;
+    background: #261E16;
     transition: color 0.2s, background 0.2s, transform 0.2s var(--ease-out);
 
-    &:not(:last-child) { border-right: 1px solid #2E2420; }
+    &:not(:last-child) { border-right: 1px solid #3A2E22; }
 
     &:hover {
       color: var(--ember);
