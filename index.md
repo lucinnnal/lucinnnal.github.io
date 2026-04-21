@@ -15,7 +15,7 @@ title: Home
     </div>
   </div>
   <div class="hero-content-col">
-    <span class="hero-label">[ AI Researcher ]</span>
+    <span class="hero-label">[ AI Researcher <span class="cursor">|</span> ]</span>
     <h1 class="hero-name">Kipyo Kim</h1>
     <p class="hero-affil">
       Sungkyunkwan University · Seoul, South Korea<br>
