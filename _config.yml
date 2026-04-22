@@ -3,8 +3,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.md
-  - publications.md
-  - projects.md
-  - cv.md
+title: Kipyo Kim
