@@ -5,6 +5,33 @@ permalink: /projects/
 ---
 
 <div class="project-card">
+  <p class="project-date">2026.03 — 2026.06</p>
+  <h3 class="project-title">
+    <a href="https://lucinnnal.github.io/hivideosum_datacapstone" target="_blank">
+      Hi-VideoSum: Frame-Free Korean YouTube Summarization with Transcripts and Viewer Comments
+    </a>
+  </h3>
+  <p class="project-desc">
+    A resource-efficient sLLM-based summarization service that never touches video frames, operating purely on
+    two text signals from Korean YouTube—transcripts and viewer comments. We curate a ~10k-sample dataset across
+    7 categories and ~80 channels, select high-quality comments via an LLM-based three-axis evaluation
+    (informativeness · subjectivity · relevance), and fine-tune an sLLM to produce a three-paragraph prose summary
+    covering video content, viewer reactions, and standout moments.
+  </p>
+  <div class="project-meta">
+    <span class="meta-label">Stack</span>
+    <span class="meta-tag tech">Python</span>
+    <span class="meta-tag tech">PyTorch</span>
+    <span class="meta-tag tech">sLLM</span>
+    <span class="meta-label" style="margin-left:0.6rem;">With</span>
+    <span class="meta-tag">Yeonhoo Jung</span>
+    <span class="meta-tag">Yongha Lee</span>
+    <span class="meta-tag">Kyungjun Oh</span>
+    <span class="meta-tag">Kipyo Kim</span>
+  </div>
+</div>
+
+<div class="project-card">
   <p class="project-date">2025.09 — 2025.12</p>
   <h3 class="project-title">
     <a href="https://github.com/lucinnnal/ai_forensics" target="_blank">
