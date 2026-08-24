@@ -22,8 +22,8 @@ title: Home
       B.S. in Applied Artificial Intelligence
     </p>
     <p class="hero-bio">
-      I'm an undergraduate student interested in <em>video understanding</em> and reasoning with AI.
-      I'm currently working on video understanding in the <em>embodied</em> domain, exploring how AI
+      I'm an undergraduate student interested in video understanding and reasoning with AI.
+      I'm currently working on video understanding in the embodied domain, exploring how AI
       models can perceive, reason about, and act upon dynamic visual environments. My goal is to extend
       this work toward building video understanding systems that generalize across diverse real world domains.
     </p>
