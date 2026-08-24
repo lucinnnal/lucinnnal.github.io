@@ -456,6 +456,42 @@ strong { color: var(--ink); font-weight: 600; }
   }
 }
 
+.pub-card {
+  .pub-authors {
+    font-family: var(--text);
+    font-size: 0.95rem;
+    color: var(--ink-80);
+    line-height: 1.5;
+    letter-spacing: -0.01em;
+    margin: 0 0 0.55rem;
+
+    strong { font-weight: 600; color: var(--ink); }
+  }
+
+  .pub-venue {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    font-family: var(--text);
+    font-size: 0.85rem;
+    color: var(--ink-48);
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+
+  .pub-badge {
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.7rem;
+    border-radius: var(--r-pill);
+    background: rgba(0, 102, 204, 0.08);
+    color: var(--blue);
+  }
+}
+
 /* ═══════════════════════════════════════
    ABOUT / OTHER PAGES
    ═══════════════════════════════════════ */
