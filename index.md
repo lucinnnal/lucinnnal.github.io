@@ -22,17 +22,16 @@ title: Home
       B.S. in Applied Artificial Intelligence
     </p>
     <p class="hero-bio">
-      I am an undergraduate student passionate about how machines perceive, reason,
-      and generalize across visual and temporal modalities — with a focus on
-      <em>multimodal reasoning</em>, <em>video understanding</em>,
-      and learning representations that transfer beyond their training distribution.
+      I'm an undergraduate student interested in <em>video understanding</em> and reasoning with AI.
+      I'm currently working on video understanding in the <em>embodied</em> domain, exploring how AI
+      models can perceive, reason about, and act upon dynamic visual environments. My goal is to extend
+      this work toward building video understanding systems that generalize across diverse real world domains.
     </p>
     <div class="hero-interests">
       <span class="interest-label">Research Interests</span>
       <div class="interest-tags">
-        <span>Multimodal Reasoning</span>
         <span>Video Understanding</span>
-        <span>Representation Learning</span>
+        <span>Embodied Reasoning</span>
       </div>
     </div>
   </div>
