@@ -112,11 +112,10 @@ title: Home
       VidOmni-Bench: A Benchmark for Fine-Grained Video Understanding via Spatio-Temporal Event Verification across Complexity and Duration
     </h3>
     <p class="pub-authors">
-      Changbeen Kim, Junwon Chang, <strong>Kipyo Kim</strong>, Risa Shinoda, Kuniaki Saito, Donghyun Kim
+      Changbeen Kim, Junwon Chang, Kipyo Kim, Risa Shinoda, Kuniaki Saito, Donghyun Kim
     </p>
     <p class="pub-venue">
       <span class="pub-badge">EMNLP 2026 Main</span>
-      Empirical Methods in Natural Language Processing (EMNLP) 2026, Main Conference
     </p>
   </div>
 </section>
@@ -142,12 +141,12 @@ title: Home
       <span class="meta-label">Stack</span>
       <span class="meta-tag tech">Python</span>
       <span class="meta-tag tech">PyTorch</span>
-      <span class="meta-tag tech">sLLM</span>
+      <span class="meta-tag tech">vLLM</span>
+      <span class="meta-tag tech">HuggingFace</span>
       <span class="meta-label" style="margin-left:0.6rem;">With</span>
       <span class="meta-tag">Yeonhoo Jung</span>
       <span class="meta-tag">Yongha Lee</span>
       <span class="meta-tag">Kyungjun Oh</span>
-      <span class="meta-tag">Kipyo Kim</span>
     </div>
   </div>
 

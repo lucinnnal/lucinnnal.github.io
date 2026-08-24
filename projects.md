@@ -22,12 +22,12 @@ permalink: /projects/
     <span class="meta-label">Stack</span>
     <span class="meta-tag tech">Python</span>
     <span class="meta-tag tech">PyTorch</span>
-    <span class="meta-tag tech">sLLM</span>
+    <span class="meta-tag tech">vLLM</span>
+    <span class="meta-tag tech">HuggingFace</span>
     <span class="meta-label" style="margin-left:0.6rem;">With</span>
     <span class="meta-tag">Yeonhoo Jung</span>
     <span class="meta-tag">Yongha Lee</span>
     <span class="meta-tag">Kyungjun Oh</span>
-    <span class="meta-tag">Kipyo Kim</span>
   </div>
 </div>
 
