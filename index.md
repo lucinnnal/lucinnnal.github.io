@@ -15,12 +15,7 @@ title: Home
     </div>
   </div>
   <div class="hero-content-col">
-    <span class="hero-label">AI Researcher<span class="cursor">.</span></span>
     <h1 class="hero-name">Kipyo Kim</h1>
-    <p class="hero-affil">
-      Sungkyunkwan University · Seoul, South Korea<br>
-      B.S. in Applied Artificial Intelligence
-    </p>
     <p class="hero-bio">
       I'm an undergraduate student interested in video understanding and reasoning with AI.
       I'm currently working on video understanding in the embodied domain, exploring how AI
@@ -68,17 +63,8 @@ title: Home
       Member, Machine Learning / Deep Learning (A) Session (Aug. 2024 – Nov. 2024)
     </li>
     <li>
-      <strong>Undergraduate Research Program, Sungkyunkwan University</strong><br>
-      Emotion Classification via Micro-Action &middot; Mar. 2025 – Sep. 2025<br>
-      Advisor: Prof. Jangwon Lee
-    </li>
-    <li>
       <strong>DK Medical System, Seoul, South Korea</strong><br>
       Research Intern (AI in Medical Devices) &middot; Jan. 2025
-    </li>
-    <li>
-      <strong>OUTTA AI Lab Bootcamp</strong><br>
-      Completed foundational courses in AI and Machine Learning &middot; Jun. 2024 – Aug. 2024
     </li>
     <li>
       <strong>11th Engineer Battalion, 2nd Infantry Division, U.S. Army</strong><br>
@@ -86,7 +72,7 @@ title: Home
     </li>
   </ul>
 
-  <h3>Awards</h3>
+  <h3>Awards &amp; Scholarship</h3>
   <ul>
     <li><strong>Dean's List Award</strong>, College of Software Convergence, Sungkyunkwan University (Sep. 2025)</li>
     <li><strong>Undergraduate Scholarship Recipient</strong>, Medical AI Micro-degree Program (Jul. 2025)</li>

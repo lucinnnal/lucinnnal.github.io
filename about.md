@@ -34,23 +34,10 @@ permalink: /about/
   • Member, Machine Learning / Deep Learning (A) Session (Aug. 2024 ~ Nov. 2024)
 
 
-- **Undergraduate Research Program, Sungkyunkwan University**
-
-  • Emotion Classification via Micro-Action  
-  • Mar. 2025 ~ Sep.2025
-  • Advisor: Prof. Jangwon Lee
-
-
 - **DK Medical System, Seoul, South Korea**
 
   • Research Intern (AI in Medical Devices)  
   • Jan. 2025
-
-
-- **OUTTA AI Lab Bootcamp**
-
-  • Completed foundational courses in AI and Machine Learning  
-  • Jun. 2024 ~ Aug. 2024
 
 
 - **11th Engineer Battalion, 2nd Infantry Division, U.S. Army**
@@ -59,7 +46,7 @@ permalink: /about/
   • Discharged: Dec. 13, 2023
 
 
-## Awards
+## Awards & Scholarship
 
 - **Dean’s List Award**, College of Software Convergence, Sungkyunkwan University (Sep. 2025)
 - **Undergraduate Scholarship Recipient**, Medical AI Micro-degree Program (Jul. 2025)
