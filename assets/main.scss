@@ -194,8 +194,10 @@ a {
 
 strong { color: var(--ink); font-weight: 600; }
 
-/* ── Footer ── */
-.site-footer {
+/* ── Footer — hidden ── */
+.site-footer { display: none !important; }
+
+.site-footer-unused {
   background: var(--parchment) !important;
   border-top: 1px solid var(--hairline) !important;
   font-family: var(--text);
