@@ -17,10 +17,10 @@ title: Home
   <div class="hero-content-col">
     <h1 class="hero-name">Kipyo Kim</h1>
     <p class="hero-bio">
-      I'm an undergraduate student interested in video understanding and reasoning with AI.
-      I'm currently working on video understanding in the embodied domain, exploring how AI
-      models can perceive, reason about, and act upon dynamic visual environments. My goal is to extend
-      this work toward building video understanding systems that generalize across diverse real world domains.
+      I'm an undergraduate student in Applied Artificial Intelligence (B.S.) at Sungkyunkwan University,
+      Seoul, South Korea, interested in video understanding and reasoning with AI. I currently work on video understanding
+      in the embodied domain — how models perceive, reason about, and act in dynamic visual environments —
+      with the goal of building systems that generalize across diverse real-world domains.
     </p>
     <div class="hero-interests">
       <span class="interest-label">Research Interests</span>
