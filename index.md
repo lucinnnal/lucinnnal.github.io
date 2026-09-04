@@ -16,11 +16,14 @@ title: Home
   </div>
   <div class="hero-content-col">
     <h1 class="hero-name">Kipyo Kim</h1>
-    <p class="hero-bio">
+    <p class="hero-bio hero-bio-affil">
       I'm an undergraduate student in Applied Artificial Intelligence (B.S.) at Sungkyunkwan University,
-      Seoul, South Korea, interested in video understanding and reasoning with AI. I currently work on video understanding
-      in the embodied domain — how models perceive, reason about, and act in dynamic visual environments —
-      with the goal of building systems that generalize across diverse real-world domains.
+      Seoul, South Korea.
+    </p>
+    <p class="hero-bio">
+      I currently work on video understanding in the embodied domain — how models perceive,
+      reason about, and act in dynamic visual environments — with the goal of building systems
+      that generalize across diverse real-world domains.
     </p>
     <div class="hero-interests">
       <span class="interest-label">Research Interests</span>
